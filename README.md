@@ -276,6 +276,8 @@ along with a CI service (in Jenkins) hosted that will run unit and end to end te
 
 ## Contact
 
+## //pull request comment to get the free hacktoberfest t-shirt
+
 For more information on AngularJS please check out http://angularjs.org/
 
 [git]: http://git-scm.com/
